@@ -1,0 +1,25 @@
+.card {
+    background-color: #e32e2e;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: "Arial", sans-serif; /* Cambiar el tipo de letra */
+}
+
+.card p {
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    font-size: 14px;
+    color: #666666;
+}
+
